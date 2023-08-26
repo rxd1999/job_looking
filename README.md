@@ -4,3 +4,4 @@
 |2|科大讯飞|8.13|笔试完成|https://campus.iflytek.com/official-pc/delivery|
 |3|小红书|8.23|简历筛选|https://job.xiaohongshu.com/record/campus|
 |4|联想|8.26|简历评估|https://talent.lenovo.com.cn/account/apply|
+|5|壁仞科技|8.26|初筛|https://app.mokahr.com/campus-recruitment/biren/44727#/candidateHome/applications|
