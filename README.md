@@ -6,3 +6,4 @@
 |4|联想|8.26|测开|简历评估|https://talent.lenovo.com.cn/account/apply|
 |5|壁仞科技|8.26|测开|初筛|https://app.mokahr.com/campus-recruitment/biren/44727#/candidateHome/applications|
 |6|京东|8.27|测开|简历初筛|https://campus.jd.com/#/myDeliver?type=present|
+|7|快手|8.27|测开|简历初筛|https://campus.kuaishou.cn/#/campus/my-apply|
