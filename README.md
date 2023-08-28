@@ -7,5 +7,5 @@
 |5|壁仞科技|8.26|测开|初筛|https://app.mokahr.com/campus-recruitment/biren/44727#/candidateHome/applications|
 |6|京东|8.27|测开|简历初筛|https://campus.jd.com/#/myDeliver?type=present|
 |7|快手|8.27|测开|简历初筛|https://campus.kuaishou.cn/#/campus/my-apply|
-|8|蔚来|8.27|测开|简历初筛|https://nio.jobs.feishu.cn/campus/position/application?spread=CDRBT29|
+|8|蔚来|8.27|测开|一志愿简历挂|https://nio.jobs.feishu.cn/campus/position/application?spread=CDRBT29|
 |9|米哈游|8.27|测开|简历筛选|https://campus.mihoyo.com/#/campus/resume/position/preview/498|
