@@ -9,3 +9,4 @@
 |7|快手|8.27|测开|简历初筛|https://campus.kuaishou.cn/#/campus/my-apply|
 |8|蔚来|8.27|测开|一志愿简历挂|https://nio.jobs.feishu.cn/campus/position/application?spread=CDRBT29|
 |9|米哈游|8.27|测开|简历筛选|https://campus.mihoyo.com/#/campus/applyRecord|
+|10|招商银行|8.29|测开|简历筛选|https://cmbnt.cmbchina.com/pages/mycenter/default.html|
