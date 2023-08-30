@@ -12,3 +12,4 @@
 |10|招商银行|8.29|测开|简历筛选|https://cmbnt.cmbchina.com/pages/mycenter/default.html|
 |11|百度|8.29|测开|简历筛选|https://talent.baidu.com/jobs/center|
 |12|用友|8.30|测开|测评|https://career.yonyou.com/SU6486ca53bef57c16d35313ab/pb/account.html#/myDeliver|
+|13|4399|8.30|测开|简历筛选|https://hr.4399om.com/?r=UserCenter|
