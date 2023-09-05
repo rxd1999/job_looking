@@ -14,4 +14,5 @@
 |12|用友|8.30|测开|测评|https://career.yonyou.com/SU6486ca53bef57c16d35313ab/pb/account.html#/myDeliver|
 |13|4399|8.30|测开|简历挂|~~https://hr.4399om.com/?r=UserCenter~~|
 |14|荣耀|9.5|测开|投递成功|https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/account.html#/myDeliver|
-|15|博士|9.5|测开|初筛|https://app.mokahr.com/campus-recruitment/bosch/73873#/candidateHome/applications|
+|15|博世|9.5|测开|初筛|https://app.mokahr.com/campus-recruitment/bosch/73873#/candidateHome/applications|
+|16|美的|9.5|软件测试|初筛|https://careers.midea.com/schoolOut/apply|
