@@ -16,3 +16,4 @@
 |14|荣耀|9.5|测开|投递成功|https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/account.html#/myDeliver|
 |15|博世|9.5|测开|初筛|https://app.mokahr.com/campus-recruitment/bosch/73873#/candidateHome/applications|
 |16|美的|9.5|软件测试|初筛|https://careers.midea.com/schoolOut/apply|
+|17|饿了么|9.7|测试开发|简历筛选|https://talent.ele.me/personal/campus-application?lang=zh|
