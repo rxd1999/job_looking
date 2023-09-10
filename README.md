@@ -18,3 +18,4 @@
 |16|美的|9.5|软件测试|初筛|https://careers.midea.com/schoolOut/apply|
 |17|饿了么|9.7|测试开发|简历筛选|https://talent.ele.me/personal/campus-application?lang=zh|
 |18|携程|9.7|测试开发|投递成功|https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications|
+|19|深信服|9.10|测试开发|简历筛选|https://hr.sangfor.com/campucompon/personalCenter|
