@@ -20,3 +20,4 @@
 |18|携程|9.7|测试开发|投递成功|https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications|
 |19|深信服|9.10|测试开发|简历筛选|https://hr.sangfor.com/campucompon/personalCenter|
 |20|中兴|9.11|软件测试|投递成功|https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications|
+|21|字节|9.11|测试开发|投递简历|https://jobs.bytedance.com/campus/position/application?utm_source=SEMbaidu&utm_device=pc&utm_keyword=qz2023pc042|
