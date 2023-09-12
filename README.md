@@ -23,3 +23,4 @@
 |21|字节|9.11|测试开发|简历挂|~~https://jobs.bytedance.com/campus/position/application?utm_source=SEMbaidu&utm_device=pc&utm_keyword=qz2023pc042~~|
 |22|小米|9.11|软件测试|投递简历|https://xiaomi.jobs.f.mioffice.cn/campus/position/application?spread=J7NS6YR|
 |23|去哪儿|9.11|测试开发|简历初筛|https://app.mokahr.com/campus_apply/qunar/4207#/candidateHome/applications|
+|24|巨人科技|9.12|游戏测试|简历筛选|https://app.mokahr.com/campus-recruitment/ztgame/92438#/candidateHome/applications|
