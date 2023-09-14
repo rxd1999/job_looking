@@ -26,3 +26,4 @@
 |24|巨人科技|9.12|游戏测试|简历筛选|https://app.mokahr.com/campus-recruitment/ztgame/92438#/candidateHome/applications|
 |25|得物|9.12|测试开发|简历筛选|https://campus.dewu.com/campus_apply/thedu/37483/#/candidateHome/applications|
 |26|大华|9.14|软件测试|简历筛选|https://dahua.zhiye.com/personal/deliveryRecord|
+|27|恒生电子|9.14|测试开发|简历筛选|https://campus.hundsun.com/personal/deliveryRecord|
