@@ -29,3 +29,4 @@
 |27|恒生电子|9.14|测试开发|简历筛选|https://campus.hundsun.com/personal/deliveryRecord|
 |28|地平线|9.14|嵌入式测开|简历筛选|https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/account.html#/myDeliver|
 |29|巨鲨医疗|9.14|软件测试|简历筛选|https://app.mokahr.com/campus-recruitment/jusha/101949#/candidateHome/applications|
+|30|锐捷|9.14|自动化测试|测评|https://app.mokahr.com/campus-recruitment/ruijie/116161#/candidateHome/applications|
