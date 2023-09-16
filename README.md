@@ -34,3 +34,4 @@
 |32|顺丰|9.16|测试开发|网申|https://crs-pub.sf-express.com/#/personalCenter?activeTab=2|
 |33|奇安信|9.16|软件测试|投递成功|https://app.mokahr.com/campus-recruitment/qianxin/29182#/candidateHome/applications|
 |34|比亚迪|9.16|未定|投递成功|https://job.byd.com/portal/pc/#/personalCenter/myApply|
+|35|度小满|9.16|测试开发|投递成功|https://app.mokahr.com/campus-recruitment/duxiaoman/74050#/candidateHome/applications|
