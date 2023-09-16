@@ -32,3 +32,4 @@
 |30|锐捷|9.14|自动化测试|测评|https://app.mokahr.com/campus-recruitment/ruijie/116161#/candidateHome/applications|
 |31|鼎桥|9.14|软件测试|初筛|https://td-tech.zhiye.com/personal/deliveryRecord|
 |32|顺丰|9.16|测试开发|网申|https://crs-pub.sf-express.com/#/personalCenter?activeTab=2|
+|33|奇安信|9.16|软件测试|投递成功|https://app.mokahr.com/campus-recruitment/qianxin/29182#/candidateHome/applications|
