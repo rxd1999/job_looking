@@ -36,3 +36,4 @@
 |34|比亚迪|9.16|未定|投递成功|https://job.byd.com/portal/pc/#/personalCenter/myApply|
 |35|度小满|9.16|测试开发|投递成功|https://app.mokahr.com/campus-recruitment/duxiaoman/74050#/candidateHome/applications|
 |36|新华三|9.18|软件测试|已投递|https://career.h3c.com/h3c/user/delivery|
+|37|完美世界|9.18|软件测试|已投递|https://recruit.games.wanmei.com/campus-recruitment/pwrd/98446/#/candidateHome/applications|
