@@ -40,3 +40,4 @@
 |38|满帮|9.18|测试开发|申请成功|https://app.mokahr.com/campus-recruitment/manbang/94191#/candidateHome/applications|
 |39|阅文|9.18|测试开发|简历筛选|https://www.nowcoder.com/users/730201323/deliver|
 |40|保融|9.18|软件测试|简历筛选|https://campus.fingard.com/campus_apply/baorong/25901/#/candidateHome/applications|
+|41|华为|9.19|软件测试|简历投递|https://career.huawei.com/reccampportal/portal5/appjob-campus.html?classification=1|
