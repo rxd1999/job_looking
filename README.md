@@ -42,3 +42,4 @@
 |40|保融|9.18|软件测试|简历筛选|https://campus.fingard.com/campus_apply/baorong/25901/#/candidateHome/applications|
 |41|华为|9.19|软件测试|简历投递|https://career.huawei.com/reccampportal/portal5/appjob-campus.html?classification=1|
 |42|金蝶|9.19|软件测试|简历投递|https://q.yingjiesheng.com/pc/personal?tab=2|
+|43|三星|9.19|测试开发|简历投递|https://dearsamsung.zhiye.com/personal/deliveryRecord|
