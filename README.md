@@ -21,9 +21,9 @@
 |19|深信服|9.10|测试开发|笔试完成|https://hr.sangfor.com/campucompon/personalCenter|
 |20|中兴|9.11|软件测试|投递成功|https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications|
 |21|字节|9.11|测试开发|简历挂|~~https://jobs.bytedance.com/campus/position/application?utm_source=SEMbaidu&utm_device=pc&utm_keyword=qz2023pc042~~|
-|22|小米|9.11|软件测试|待笔试|https://xiaomi.jobs.f.mioffice.cn/campus/position/application?spread=J7NS6YR|
+|22|小米|9.11|软件测试|笔试完成|https://xiaomi.jobs.f.mioffice.cn/campus/position/application?spread=J7NS6YR|
 |23|去哪儿|9.11|测试开发|测评|https://app.mokahr.com/campus_apply/qunar/4207#/candidateHome/applications|
-|24|巨人科技|9.12|游戏测试|简历筛选|https://app.mokahr.com/campus-recruitment/ztgame/92438#/candidateHome/applications|
+|24|巨人科技|9.12|游戏测试|笔试完成|https://app.mokahr.com/campus-recruitment/ztgame/92438#/candidateHome/applications|
 |25|得物|9.12|测试开发|笔试完成|https://campus.dewu.com/campus_apply/thedu/37483/#/candidateHome/applications|
 |26|大华|9.14|软件测试|笔试重写|~~https://dahua.zhiye.com/personal/deliveryRecord~~|
 |27|恒生电子|9.14|测试开发|初筛通过|https://campus.hundsun.com/personal/deliveryRecord|
