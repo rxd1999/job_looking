@@ -46,3 +46,4 @@
 |44|虎牙|9.19|测试开发|简历初筛|https://app.mokahr.com/campus_apply/huya/4112#/candidateHome/applications|
 |45|理想|9.19|自动化测试|投递|https://www.lixiang.com/employ/archives.html?fromJob=1|
 |46|海康|9.25|测试|测评|https://campushr.hikvision.com/myDelivery|
+|47|苏小妍|9.26|测试开发|https://xiaoyuan.zhaopin.com/scrd/delivery/record|
