@@ -47,3 +47,4 @@
 |45|理想|9.19|自动化测试|投递|https://www.lixiang.com/employ/archives.html?fromJob=1|
 |46|海康|9.25|测试|测评|https://campushr.hikvision.com/myDelivery|
 |47|苏小妍|9.26|测试开发|投递|https://xiaoyuan.zhaopin.com/scrd/delivery/record|
+|48|海信|10.9|测试|简历筛选|https://hisense.zhiye.com/personal/deliveryRecord|
